@@ -41,6 +41,6 @@ Urgency: overdue = 50, due today = 40, within 2 days = 30, within 7 days = 20, l
 | Name | Part |
 |------|------|
 | Member 1 | Rohit Kumar |
-| Member 2 | Aryaman Srivasta |
+| Member 2 | Aryaman Srivastava |
 | Member 3 | Sparsh Kaushik |
 | Member 4 | Harshit Pandey|
